@@ -1,0 +1,4 @@
+ANOTAÇÕES: primeiro eu criei uma função, praa depois chama-la no botao
+capturei o elemento que o usuario digitou, pegando o.value
+tambem inseri a API, e no lugar de por direto o cep, eu coloquei o input que é onde esta o cep d usuario
+o .the é mais demorado, q ela não é assincrona, portanto ela vai demorar para ser carregada
